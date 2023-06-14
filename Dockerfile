@@ -1,4 +1,4 @@
-FROM maven:3.6.3-amazoncorretto-8
+FROM maven:3.9.2-amazoncorretto-17
 
 RUN yum install -y git
 
